@@ -1,8 +1,63 @@
-- 👋 Hi, I’m @dev-sam17
-- 👀 I’m interested in building projects that will help people.
-- 🌱 I’m currently learning JavaScript and Backend Development using NodeJS.
+# 👋 Hey, I'm Saurav Kumar!  
 
-<!---
-dev-sam17/dev-sam17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full Stack Web Developer** | ⚡ **MERN Stack Specialist** | 🔧 **DevOps Enthusiast** | 🎯 **Problem Solver**  
+
+---
+
+## 💡 About Me
+- 💻 Full-stack web developer with a strong focus on **MERN + Next.js + Electron.js**
+- 📈 Currently building **production-grade desktop & web apps**
+- 🛠️ Learning **DevOps** & fine-tuning LLMs with **RAG (Retrieval-Augmented Generation)**
+- 📍 Based in India, working with clients worldwide
+- ✍️ I also create **tech content** & share practical dev tips
+
+---
+
+## 🏆 Core Strengths
+- **MERN Stack Development** – Scalable, performant, and maintainable web apps  
+- **Next.js Expert** – SEO, App Router, Server Actions, & API integrations  
+- **Electron.js** – Cross-platform desktop apps with native-like performance  
+- **DevOps Basics** – Docker, CI/CD, NAS setups, Cloudflare Tunnels, Tailscale  
+- **Backend Mastery** – REST APIs, Prisma ORM, MongoDB, SQLite, PostgreSQL  
+- **System Design Thinking** – Scalable architectures for real-world use cases  
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:**  
+`React` • `Next.js` • `Tailwind CSS` • `TypeScript` • `Redux` • `hls.js`
+
+**Backend:**  
+`Node.js` • `Express` • `Prisma` • `MongoDB` • `SQLite` • `PostgreSQL` • `Redis`
+
+**DevOps & Tools:**  
+`Docker` • `Cloudflare Tunnels` • `Tailscale` • `NGINX` • `GitHub Actions` • `PM2`
+
+**Other Skills:**  
+`Electron.js` • `LLM Fine-Tuning` (RAG) • `WebSocket` • `JWT/Auth Systems`
+
+---
+
+## 📌 Featured Projects
+🔹 **⏱️ Time Tracker App** – Cross-platform tracker with Prisma + SQLite backend  
+🔹 **🎬 HLS Video Platform** – Authenticated streaming with playback resume state  
+🔹 **🖥️ Electron Productivity Suite** – Desktop app for work tracking & automation  
+🔹 **🌐 Full-Stack SaaS Boilerplate** – Next.js + NextAuth + Prisma + MongoDB setup  
+
+---
+
+## 📊 GitHub Stats
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-sam17&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sam17&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect With Me
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-blue)](https://dev-sam-lilac.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)  
+[![GitHub](https://img.shields.io/badge/GitHub-white?logo=github)](https://github.com/dev-sam17)  
+
+---
+
+> 🧠 _"Code is poetry, and architecture is the rhythm that makes it timeless."_  
+
