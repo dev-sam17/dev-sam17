@@ -7,7 +7,7 @@
 ## 💡 About Me
 - 💻 Full-stack web developer with a strong focus on **MERN + Next.js + Electron.js**
 - 📈 Currently building **production-grade desktop & web apps**
-- 🛠️ Learning **DevOps** & fine-tuning LLMs with **RAG (Retrieval-Augmented Generation)**
+- 🛠️ Learning **DevOps** 
 - 📍 Based in India, working with clients worldwide
 - ✍️ I also create **tech content** & share practical dev tips
 
@@ -31,10 +31,10 @@
 `Node.js` • `Express` • `Prisma` • `MongoDB` • `SQLite` • `PostgreSQL` • `Redis`
 
 **DevOps & Tools:**  
-`Docker` • `Cloudflare Tunnels` • `Tailscale` • `NGINX` • `GitHub Actions` • `PM2`
+`Docker` • `Cloudflare Tunnels` • `Tailscale`  • `GitHub Actions` • `PM2`
 
 **Other Skills:**  
-`Electron.js` • `LLM Fine-Tuning` (RAG) • `WebSocket` • `JWT/Auth Systems`
+`Electron.js`  • `WebSocket` • `JWT/Auth Systems`
 
 ---
 
