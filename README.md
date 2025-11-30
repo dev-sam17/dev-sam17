@@ -41,8 +41,7 @@
 ## 📌 Featured Projects
 🔹 **⏱️ Time Tracker App** – Cross-platform tracker with Prisma + SQLite backend  
 🔹 **🎬 HLS Video Platform** – Authenticated streaming with playback resume state  
-🔹 **🖥️ Electron Productivity Suite** – Desktop app for work tracking & automation  
-🔹 **🌐 Full-Stack SaaS Boilerplate** – Next.js + NextAuth + Prisma + MongoDB setup  
+🔹 **🖥️ Electron Productivity Suite** – Desktop app for work tracking & automation
 
 ---
 
