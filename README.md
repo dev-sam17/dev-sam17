@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Saurav Kumar!  
 
-🚀 **Full Stack Web Developer** | ⚡ **MERN Stack Specialist** | 🔧 **DevOps Enthusiast** | 🎯 **Problem Solver**  
+🚀 **Full Stack Web Developer** | ⚡ **MERN Stack Specialist** | 🔧 **DevOps Enthusiast** | 👩‍💻 Electron Cross Platfrom App Developer | 🎯 **Problem Solver**  
 
 ---
 
 ## 💡 About Me
 - 💻 Full-stack web developer with a strong focus on **MERN + Next.js + Electron.js**
-- 📈 Currently building **production-grade desktop & web apps**
+- 📈 Currently building **production-grade electron desktop & web apps**
 - 🛠️ Learning **DevOps** 
 - 📍 Based in India, working with clients worldwide
 - ✍️ I also create **tech content** & share practical dev tips
@@ -17,8 +17,8 @@
 - **MERN Stack Development** – Scalable, performant, and maintainable web apps  
 - **Next.js Expert** – SEO, App Router, Server Actions, & API integrations  
 - **Electron.js** – Cross-platform desktop apps with native-like performance  
-- **DevOps Basics** – Docker, CI/CD, NAS setups, Cloudflare Tunnels, Tailscale  
-- **Backend Mastery** – REST APIs, Prisma ORM, MongoDB, SQLite, PostgreSQL  
+- **DevOps Basics** – Docker, Github Actions, Cloudflare Tunnels, Tailscale  
+- **Backend Mastery** – REST APIs, Express, Prisma ORM, MongoDB, SQLite, PostgreSQL  
 - **System Design Thinking** – Scalable architectures for real-world use cases  
 
 ---
@@ -28,10 +28,10 @@
 `React` • `Next.js` • `Tailwind CSS` • `TypeScript` • `Redux` • `hls.js`
 
 **Backend:**  
-`Node.js` • `Express` • `Prisma` • `MongoDB` • `SQLite` • `PostgreSQL` • `Redis`
+`Node.js` • `Express` • `Prisma` • `MongoDB` • `SQLite` • `MySQL` • `PostgreSQL` • `Redis` • `Supabase` • `Firebase` 
 
 **DevOps & Tools:**  
-`Docker` • `Cloudflare Tunnels` • `Tailscale`  • `GitHub Actions` • `PM2`
+`Docker` • `AWS` • `Google Cloud` • `Oracle Cloud` • `Cloudflare Tunnels` • `Tailscale`  • `GitHub Actions` • `PM2`
 
 **Other Skills:**  
 `Electron.js`  • `WebSocket` • `JWT/Auth Systems`
