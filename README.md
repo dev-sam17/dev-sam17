@@ -53,7 +53,7 @@
 ---
 
 ## 📫 Connect With Me
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-blue)](https://dev-sam-lilac.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-blue)](https://devsam.in/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/sauravkumar7546)
 [![GitHub](https://img.shields.io/badge/GitHub-white?logo=github)](https://github.com/dev-sam17)  
 
