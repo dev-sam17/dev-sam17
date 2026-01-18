@@ -9,7 +9,6 @@
 - 📈 Currently building **production-grade electron desktop & web apps**
 - 🛠️ Learning **DevOps** 
 - 📍 Based in India, working with clients worldwide
-- ✍️ I also create **tech content** & share practical dev tips
 
 ---
 
